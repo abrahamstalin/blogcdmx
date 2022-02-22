@@ -1,0 +1,11 @@
+.noticia{
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid #777777;
+    cursor: pointer;
+}
+
+.noticia:hover{
+    background-color: #777777;
+    color: #ffffff;
+}

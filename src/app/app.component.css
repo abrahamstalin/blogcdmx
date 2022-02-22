@@ -1,0 +1,9 @@
+.fondo-bg{
+    background-color: #EBEDEF !important;
+    min-height: 100vh;
+}
+
+.container{
+    background-color: #ffffff;
+    min-height: 100vh;
+}
